@@ -1,0 +1,15 @@
+.wrap {
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, 10%);
+  display: inline-flex;
+  padding: 20px;
+  flex-direction: column;
+  border: 2px solid black;
+  height: 631px;
+  width: 400px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3),
+              0 30px 60px rgba(0, 0, 0, 0.3),
+              0 40px 80px rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,17 @@
+.authWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  color: blue;
+  text-decoration: none;
+
+}
+
+

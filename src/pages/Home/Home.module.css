@@ -1,0 +1,35 @@
+.message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.link {
+  color: rgb(23, 55, 216);
+  font-size: 20px;
+  font-weight: 600;
+  display: block;
+  margin-left: 5px;
+  text-align: center;
+}
+
+.bodyWrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.signUp {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
